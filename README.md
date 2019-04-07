@@ -12,7 +12,7 @@ Pythonは3.6系を使用する。
  https://www.anaconda.com/distribution/
  
 2.Keras,Tensorflowのインストール
-　ターミナル（Winの場合はAnaconda pronpt）から以下を実行
-  pip install keras
+　ターミナル（Winの場合はAnaconda pronpt）から以下を実行@n
+  pip install keras@n
   pip install Tensorflow
 
