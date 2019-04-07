@@ -26,4 +26,8 @@ Pythonは3.6系を使用する。
   pip install keras
   
   pip install Tensorflow
+  
+3.足りないモジュールがある場合（No module named 'aaa'と表示される）
+
+　pip install aaa
 
